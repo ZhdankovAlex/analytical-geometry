@@ -1,0 +1,11 @@
+C:\Users\jdank\source\repos\laba1\laba1\obj\Debug\netcoreapp3.1\laba1.csprojAssemblyReference.cache
+C:\Users\jdank\source\repos\laba1\laba1\obj\Debug\netcoreapp3.1\laba1.AssemblyInfoInputs.cache
+C:\Users\jdank\source\repos\laba1\laba1\obj\Debug\netcoreapp3.1\laba1.AssemblyInfo.cs
+C:\Users\jdank\source\repos\laba1\laba1\bin\Debug\netcoreapp3.1\laba1.exe
+C:\Users\jdank\source\repos\laba1\laba1\bin\Debug\netcoreapp3.1\laba1.deps.json
+C:\Users\jdank\source\repos\laba1\laba1\bin\Debug\netcoreapp3.1\laba1.runtimeconfig.json
+C:\Users\jdank\source\repos\laba1\laba1\bin\Debug\netcoreapp3.1\laba1.runtimeconfig.dev.json
+C:\Users\jdank\source\repos\laba1\laba1\bin\Debug\netcoreapp3.1\laba1.dll
+C:\Users\jdank\source\repos\laba1\laba1\bin\Debug\netcoreapp3.1\laba1.pdb
+C:\Users\jdank\source\repos\laba1\laba1\obj\Debug\netcoreapp3.1\laba1.dll
+C:\Users\jdank\source\repos\laba1\laba1\obj\Debug\netcoreapp3.1\laba1.pdb
